@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+.main-container{
+ border: 1px solid black;
+ width: fit-content;
+ margin: 100px auto;
+ padding: 15px;
+
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    position: relative;
+
+
+    
+}
+.btn{
+    margin: 10px;
+
+}
