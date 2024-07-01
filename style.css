@@ -5,7 +5,7 @@ body{
 }
 
 .main-container{
- border: 1px solid black;
+ /* border: 1px solid black; */
  width: fit-content;
  margin: 100px auto;
  padding: 15px;
